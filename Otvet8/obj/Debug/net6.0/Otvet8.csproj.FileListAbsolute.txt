@@ -1,0 +1,15 @@
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\bin\Debug\net6.0\Otvet8.exe
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\bin\Debug\net6.0\Otvet8.deps.json
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\bin\Debug\net6.0\Otvet8.runtimeconfig.json
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\bin\Debug\net6.0\Otvet8.dll
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\bin\Debug\net6.0\Otvet8.pdb
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.csproj.AssemblyReference.cache
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.AssemblyInfoInputs.cache
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.AssemblyInfo.cs
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.dll
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\refint\Otvet8.dll
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.pdb
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\Otvet8.genruntimeconfig.cache
+C:\Users\Елена\Documents\GB\Otvety\Otvet8\obj\Debug\net6.0\ref\Otvet8.dll
